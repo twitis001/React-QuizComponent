@@ -10,4 +10,4 @@ class App extends Component {
   }
 }
 
-export default Apptest
+export default App
